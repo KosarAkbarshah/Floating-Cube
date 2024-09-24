@@ -1,7 +1,12 @@
 #Floating Cube using Animation CSS🎞️
 
 **Hover effect floating 3D cube **
-![Screenshot 2024-08-24 082113](https://github.com/user-attachments/assets/ec5837b9-0bb1-427a-9c89-c73f9d65fc1f)
+
+![Screenshot 2024-09-24 104451](https://github.com/user-attachments/assets/f15b8bc5-7813-492e-951e-13bd4cf671b1)
+
+
+![Screenshot 2024-09-24 104516](https://github.com/user-attachments/assets/f0821af3-51a8-496a-bced-9a1b4f9f863f)
+
 
 
 - 🎇[Demo Project]( https://kosarakbarshah.github.io/Floating-Cube/)
